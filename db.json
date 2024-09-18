@@ -5,7 +5,7 @@
       "name": "Andriy",
       "surname": "Moskalenko",
       "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpcdIaO0zIDMhcsJK6vCxooNfuTvPpAjLjJA&usqp=CAU",
-    }
+    },
   ],
   "products": [
     {
@@ -23,6 +23,6 @@
       "price": 4200,
       "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_QhvNlCgdWN7NbibvR9QFwEdqtui_sdvYAQ&s",
       "in_stock": true,
-    }
-  ]
+    },
+  ],
 }
