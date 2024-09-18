@@ -19,10 +19,7 @@
      {
       "id": 2,
       "name": "Electric guitar",
-      "describe": "Full-size acoustic ideal for budding players
-                  Basswood construction provides bright and balanced tones
-                  Ultra-comfortable C-shaped neck is perfect for beginners
-                  Poplar laminate fretboard provides a silky smooth playing surface",
+      "describe": "Full-size acoustic ideal for budding players Basswood construction provides bright and balanced tones Ultra-comfortable C-shaped neck is perfect for beginners Poplar laminate fretboard provides a silky smooth playing surface",
       "price": 4200,
       "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_QhvNlCgdWN7NbibvR9QFwEdqtui_sdvYAQ&s",
       "in_stock": true,
