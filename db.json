@@ -10,6 +10,7 @@
     "products": [
         {
             "id": 1,
+            "author_id": 29,
             "name": "Acoustic guitar",
             "description": "Full-size acoustic ideal for budding player Basswood construction provides bright and balanced tone Ultra-comfortable C-shaped neck is perfect for beginners Poplar laminate fretboard provides a silky smooth playing surface",
             "price": 2300,
@@ -18,10 +19,20 @@
         },
         {
             "id": 2,
+            "author_id": 30,
             "name": "Electric guitar",
             "description": "Full-size acoustic ideal for budding players Basswood construction provides bright and balanced tones Ultra-comfortable C-shaped neck is perfect for beginners Poplar laminate fretboard provides a silky smooth playing surface",
             "price": 4200,
             "img_url": "https://jam.ua/images/item/440/fg820-bl-main-yamaha.6082d5aac865a.jpg",
+            "in_stock": true
+        },
+         {
+            "id": 3,
+            "author_id": 30,
+            "name": "Electric guitar Ibanez",
+            "description": "Full-size acoustic ideal for budding players Basswood construction provides bright and balanced tones Ultra-comfortable C-shaped neck is perfect for beginners Poplar laminate fretboard provides a silky smooth playing surface",
+            "price": 5100,
+            "img_url": "https://guitarhouse.com.ua/content/images/29/900x600l80mc0/elektrohitara-ibanez-grx40-mgn-15791498640776.webp",
             "in_stock": true
         }
     ]
